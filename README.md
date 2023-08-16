@@ -1,5 +1,11 @@
 # 前端课程设计
 
+<div>
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/html.webp">
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cssgif.webp">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/js.webp">
+</div>
+
 - 项目名称：前端学习笔记网站
 - 开发工具：WebStorm
 - 开发语言：HTML、CSS、JavaScript
